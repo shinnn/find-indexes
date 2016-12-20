@@ -1,0 +1,36 @@
+{
+  "name": "find-indexes",
+  "description": "Like Array#findIndex but return all indexes",
+  "keywords": [
+    "array",
+    "index",
+    "search",
+    "find",
+    "all",
+    "test",
+    "satisfy",
+    "multi",
+    "multiple"
+  ],
+  "main": "module.js",
+  "moduleType": "es6",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shinnn/find-indexes.git"
+  },
+  "authors": [
+    "Shinnosuke Watanabe (https://github.com/shinnn)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "append-type": "^1.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.json",
+    "*.yml",
+    "coverage",
+    "node_modules"
+  ]
+}
