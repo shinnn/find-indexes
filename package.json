@@ -32,10 +32,10 @@
     "append-type": "^1.0.0"
   },
   "devDependencies": {
-    "@shinnn/eslint-config": "^3.3.5",
-    "eslint": "^3.12.2",
+    "@shinnn/eslint-config": "^3.3.6",
+    "eslint": "^3.17.1",
     "istanbul": "^0.4.5",
-    "rollup": "^0.37.0",
+    "rollup": "^0.41.4",
     "rollup-config-module": "^1.0.0",
     "tape": "^4.6.3"
   },
