@@ -1,7 +1,3 @@
-/*!
- * find-indexes | MIT (c) Shinnosuke Watanabe
- * https://github.com/shinnn/find-indexes
-*/
 import appendType from 'append-type';
 
 export default function findIndexes(arr, fn) {

@@ -2,10 +2,6 @@
 
 var appendType = require('append-type');
 
-/*!
- * find-indexes | MIT (c) Shinnosuke Watanabe
- * https://github.com/shinnn/find-indexes
-*/
 function findIndexes(arr, fn) {
   if (!Array.isArray(arr)) {
     throw new TypeError(
