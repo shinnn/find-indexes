@@ -1,7 +1,7 @@
 {
   "name": "find-indexes",
-  "version": "1.0.0",
-  "description": "Like Array#findIndex but return all indexes",
+  "version": "1.0.1",
+  "description": "Like Array#findIndex() but return all indexes",
   "repository": "shinnn/find-indexes",
   "author": "Shinnosuke Watanabe (https://github.com/shinnn)",
   "scripts": {
